@@ -19,7 +19,7 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model(r"C:\Users\HP\Downloads\tumor_model.h5")
+    model = tf.keras.models.load_model("tumor_model.h5")
     return model
 
 model = load_model()
