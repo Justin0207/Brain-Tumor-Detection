@@ -43,8 +43,6 @@ The app provides a simple interface for non-technical users such as doctors, res
 - Display prediction results with confidence scores
 - Generate and download professional-looking PDF reports
 
----
-
 
 ---
 
@@ -62,7 +60,7 @@ The generated report contains:
 - User-uploaded image
 - Predicted tumor type
 - Probability/confidence score
-- Report branding header (optional)
+- Recommendations
 
 ---
 
@@ -70,7 +68,7 @@ The generated report contains:
 
 Below is a screenshot of the Streamlit web application in action:
 
-<img src="assets/app_screenshot.png" alt="App Screenshot" width="700"/>
+<img src="app_screenshot.png" alt="App Screenshot" width="700"/>
 
 ---
 
@@ -78,7 +76,9 @@ Below is a screenshot of the Streamlit web application in action:
 
 Click below to view a sample generated diagnostic report:
 
-👉 [Download Sample Report (PDF)](assets/John_Doe_MRI_report.pdf)
+👉 [Download Sample Report (PDF)](John_Doe_MRI_report.pdf)
+
+---
 
 ## 📬 Contact
 For questions or collaborations:
