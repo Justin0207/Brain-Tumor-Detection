@@ -68,7 +68,7 @@ The generated report contains:
 
 Below is a screenshot of the Streamlit web application in action:
 
-<img src="app_screenshot.png" alt="App Screenshot" width="700"/>
+<img src="app_screenshot.jpg" alt="App Screenshot" width="700"/>
 
 ---
 
